@@ -1,14 +1,20 @@
-# Welcome to your Lovable project
+# Adaptive Canvas
+
+Veja essa minha tela, quero que ela seja assim para mobile e seja diferente para o desktop. No desktop ela deve ser mais completa;
+
+Faça a implementação mantendo a mesma estrutura de minimalista e conjunto de cores
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://adaptive-canvas-65.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/fb1e4891-7b1f-4789-80d8-c9589d2187e6).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +26,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
