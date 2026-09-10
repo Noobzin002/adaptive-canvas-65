@@ -61,7 +61,7 @@ function Index() {
               <div className="flex gap-4">
                 <img src={portraitMobile} alt="Fernanda, especialista em tranças" width={736} height={912} className="h-24 w-20 shrink-0 rounded-xl object-cover" />
                 <div className="min-w-0">
-                  <h1 className="font-display text-[27px] leading-none">Fernanda Braids</h1>
+                  <p className="font-display text-[27px] leading-none">Fernanda Braids</p>
                   <p className="mt-1 text-[13px] leading-snug text-mist">Tranças com calma e precisão.</p>
                   <div className="mt-3 flex gap-2">
                     {[Instagram, MessageCircle, MapPin, Phone].map((Icon, index) => (
